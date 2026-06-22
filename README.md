@@ -82,7 +82,7 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the SA Job Postings](images/Skills_Request_Likelihood.png)
+![Likelihood of Skills Requested in the SA Job Postings](project/images/Skills_Request_Likelihood.png)
 _Bar graph visualizing the likelihood of Skills Requested in the SA Job Postings._
 
 ### Insights:
@@ -116,7 +116,7 @@ _Bar graph visualizing the likelihood of Skills Requested in the SA Job Postings
 
 ## Results
 
-![Trending Top Skills for Data Analyst in SA](images/Data_Analyst_Top_Skills_SA.png)
+![Trending Top Skills for Data Analyst in SA](project/images/Data_Analyst_Top_Skills_SA.png)
 _Bar graph visualizing the trending top trending skills for data analyst in SA._
 
 ## Insights:
@@ -139,7 +139,7 @@ ax.xaxis.set_major_formatter(plt.FuncFormatter(lambda x, pos:f'R{int(x/1000)}K')
 
 ### Results
 
-![Salary Distributions of Data Jobs in SA](images/Figure_1.png)
+![Salary Distributions of Data Jobs in SA](project/images/Figure_1.png)
 _Box plot visualizing the salary ditributions for the top 6 data job titles._
 
 ## Insights
@@ -163,7 +163,7 @@ fig,ax = plt.subplots(2,1)
 
 in-demand skills for data analysts in south africa
 
-![The highest paid & most in-demand skills for data analysts in SA](images/Salary_Analysis.png)
+![The highest paid & most in-demand skills for data analysts in SA](project/images/Salary_Analysis.png)
 _Two seperate bar hraphs visualizing the highest paid skills and most in-demand skills for data analysts in SA_
 
 ### Insights:
