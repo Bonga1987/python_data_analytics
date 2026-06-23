@@ -192,7 +192,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the SA](images/optimal_Skills)  
+![Most Optimal Skills for Data Analysts in the SA](images/optimal_Skills.png)  
 _A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the SA._
 
 #### Insights:
